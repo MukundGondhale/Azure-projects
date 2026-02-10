@@ -154,5 +154,3 @@ The solution delivers a **multi-microservice, e-commerce application platform** 
 This project demonstrates **real-world, end-to-end Azure DevOps and AKS expertise**, covering infrastructure automation, CI/CD, GitOps, monitoring, security, and cost optimization—suitable for **enterprise, cloud architect, and DevOps leadership portfolios**.
 
 ---
-
-*This README is ideal for GitHub portfolios, Azure DevOps case studies, and production-grade cloud architecture demonstrations.*
